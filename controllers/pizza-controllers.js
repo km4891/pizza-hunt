@@ -58,4 +58,4 @@ deletePizza({ params }, res) {
   }
   }
 
-  
+  module.exports = pizzaController;
